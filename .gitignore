@@ -1,0 +1,5 @@
+# Fichiers de compilation
+*.o
+
+# Fichier exécutable (remplacez par le nom de votre exécutable)
+mon_executable
